@@ -3,45 +3,45 @@ import Head from 'next/head'
 const Home = () => (
   <div className="container">
     <Head>
-      <title>Create Next App</title>
+      <title>Leewardslope</title>
       <link rel="icon" href="/favicon.ico" />
     </Head>
 
     <main>
       <h1 className="title">
-        Welcome to <a href="https://nextjs.org">Next.js!</a>
+        Welcome to <a href="https://leewardslope.com">Leewardslope!</a>
       </h1>
 
       <p className="description">
-        Get started by editing <code>pages/index.js</code>
+        Get started by  <code>learning/hacking</code>
       </p>
 
       <div className="grid">
-        <a href="https://nextjs.org/docs" className="card">
-          <h3>Documentation &rarr;</h3>
-          <p>Find in-depth information about Next.js features and API.</p>
-        </a>
-
-        <a href="https://nextjs.org/learn" className="card">
+        <a href="https://blog.leewardslope.com" className="card">
           <h3>Learn &rarr;</h3>
-          <p>Learn about Next.js in an interactive course with quizzes!</p>
+          <p>Find in-depth information about cyber security and related.</p>
+        </a>
+
+        <a href="https://hackers.leewardslope.com" className="card">
+          <h3>Join us &rarr;</h3>
+          <p>Learn about hacking in an interactive social media platform!</p>
         </a>
 
         <a
-          href="https://github.com/zeit/next.js/tree/master/examples"
+          href="https://leewardslop.com/contributors"
           className="card"
         >
-          <h3>Examples &rarr;</h3>
-          <p>Discover and deploy boilerplate example Next.js projects.</p>
+          <h3>Contribute us &rarr;</h3>
+          <p>Share and deploy your projects with us?.</p>
         </a>
 
         <a
-          href="https://vercel.com/new?filter=next.js&utm_source=create-next-app&utm_medium=default-template&utm_campaign=create-next-app"
+          href="https://leewardslope.com/timeline"
           className="card"
         >
-          <h3>Deploy &rarr;</h3>
+          <h3>Content Timeline &rarr;</h3>
           <p>
-            Instantly deploy your Next.js site to a public URL with Vercel.
+            You can have a breif look at what we do next.
           </p>
         </a>
       </div>
@@ -49,7 +49,7 @@ const Home = () => (
 
     <footer>
       <a
-        href="https://vercel.com?utm_source=create-next-app&utm_medium=default-template&utm_campaign=create-next-app"
+        href="#"
         target="_blank"
         rel="noopener noreferrer"
       >
