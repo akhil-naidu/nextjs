@@ -155,6 +155,7 @@ const Home = () => (
         text-decoration: none;
         border: 1px solid #eaeaea;
         border-radius: 10px;
+        box-shadow: 0 2px 6px rgba(0,0,0,0.15)
         transition: color 0.15s ease, border-color 0.15s ease;
       }
 
